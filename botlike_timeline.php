@@ -1,5 +1,5 @@
 <?php
-date_default_timezone_set('Asia/Jakarta');
+date_default_timezone_set('Asia/Kolkata');
 include 'class_ig.php';
 error_reporting(0);
 clear();
